@@ -1,0 +1,11 @@
+"use strict";
+var name1 = "ance";
+console.log(name1);
+var age1 = 22;
+console.log(age1);
+//name1=18;
+var fruits = ["apple", "grapes", "mango"];
+console.log(fruits);
+//fruits.push(12);
+fruits.push("strawberry");
+console.log(fruits);
